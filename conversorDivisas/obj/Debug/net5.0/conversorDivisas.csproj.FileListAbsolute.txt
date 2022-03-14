@@ -1,0 +1,16 @@
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\bin\Debug\net5.0\conversorDivisas.exe
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\bin\Debug\net5.0\conversorDivisas.deps.json
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\bin\Debug\net5.0\conversorDivisas.runtimeconfig.json
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\bin\Debug\net5.0\conversorDivisas.runtimeconfig.dev.json
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\bin\Debug\net5.0\conversorDivisas.dll
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\bin\Debug\net5.0\conversorDivisas.pdb
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\obj\Debug\net5.0\conversorDivisas.csproj.AssemblyReference.cache
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\obj\Debug\net5.0\conversorDivisas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\obj\Debug\net5.0\conversorDivisas.AssemblyInfoInputs.cache
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\obj\Debug\net5.0\conversorDivisas.AssemblyInfo.cs
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\obj\Debug\net5.0\conversorDivisas.csproj.CoreCompileInputs.cache
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\obj\Debug\net5.0\conversorDivisas.dll
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\obj\Debug\net5.0\refint\conversorDivisas.dll
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\obj\Debug\net5.0\conversorDivisas.pdb
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\obj\Debug\net5.0\conversorDivisas.genruntimeconfig.cache
+C:\Users\urive\Desktop\ProyectosRIA\conversorDivisasSolve\conversorDivisas\obj\Debug\net5.0\ref\conversorDivisas.dll
